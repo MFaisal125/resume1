@@ -118,9 +118,9 @@ nav img{
 	color: transparent;
 	animation-delay: 0.5s;
 }
-.text-box h1:hover{
+/*.text-box h1:hover{
 	text-shadow: 0px 0px 5px cyan,0px 0px 25px cyan,0px 0px 50px cyan;
-}
+}*/
 /*@keyframes colors{
 	0%{
 		background-image: url(p3.jpg);
